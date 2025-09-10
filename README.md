@@ -33,6 +33,10 @@ Using SQL queries, we explore:
 
 ## 🗂 Dataset
 
+The original dataset is too large to upload to this repository, so here’s a snapshot used for analysis:
+
+![Dataset Snapshot](assets/raw_data_snapshot.png)
+
 The dataset includes website visit records with the following columns:
 
 | Column        | Description                                                                 |
